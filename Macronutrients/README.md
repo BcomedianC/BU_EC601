@@ -1,7 +1,7 @@
 **Macronutrient Estimator; Buyuan Lin; buruce.edu**
 
 **Product Mission** <br />
-Develop an API/App for calculating and tracking the nutrient and calories provided in each meal or dish of the user. Then, provide advice is needed.
+Develop an App/API for calculating and tracking the nutrient and calories provided in each meal or dish of the user. Then, provide advice is needed.
 
 **Goals** <br />
 - Easy to use, ex. simply by taking one picture.
