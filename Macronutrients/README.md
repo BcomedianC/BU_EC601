@@ -16,6 +16,7 @@ Develop an API/App for calculating and tracking the nutrient and calories provid
 
 **Technologies to evaluate** <br />
 - Tensorflow, keras: Probably the most popular opensource machine learning right now. With exhaustive documentation and lots of existing projects.
+- Tensorflow Lite: Compress the model so it can be deployed on mobile deveices such as cell phone.
 - Python: The most wildly used language for machine learning.
 
 **Development Environment** <br />
