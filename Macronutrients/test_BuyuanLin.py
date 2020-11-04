@@ -1,6 +1,7 @@
 # content of conftest.py
 import pytest
 
+dataset = 'Desktop/Food101'
 
 def pytest_collect_file(parent, path):
     if path.ext == ".yaml" and path.basename.startswith("test"):
